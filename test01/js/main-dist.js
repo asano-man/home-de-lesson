@@ -1,0 +1,1 @@
+"use strict";$(function(){var t="こんにちは",e="あさのでし",n=t+" 私は "+e+" 。";console.log(n)});
